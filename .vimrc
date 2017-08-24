@@ -27,7 +27,6 @@ set ignorecase        "忽略大小写"
 set incsearch
 set hlsearch        "高亮搜索项"
 set noexpandtab        "不允许扩展table"
-set whichwrap+=<,>,h,l
 set autoread
 
 
