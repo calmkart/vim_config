@@ -10,7 +10,6 @@ set showtabline=0
 set guifont=Monaco:h13
 syntax on    "开启语法高亮"
 set background=dark        "设置背景色"
-set nowrap    "设置不折行"
 set fileformat=unix    "设置以unix的格式保存文件"
 set tabstop=4    "设置table长度"
 set shiftwidth=4        "同上"
