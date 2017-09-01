@@ -27,7 +27,8 @@ set incsearch
 set hlsearch        "高亮搜索项"
 set noexpandtab        "不允许扩展table"
 set autoread
-
+set list
+set listchars=tab:>-
 
 
 map <F5> :w<cr>:!python %<cr>
@@ -40,3 +41,4 @@ Plugin 'vim-airline/vim-airline'
 call vundle#end()
 
 let g:airline_powerline_fonts = 1
+
