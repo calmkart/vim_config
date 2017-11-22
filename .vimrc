@@ -23,7 +23,7 @@ set incsearch
 set hlsearch
 set expandtab
 set autoread
-
+set nu
 
 map <F5> :w<cr>:!python %<cr>
 
